@@ -1,0 +1,52 @@
+td {
+	width: 300px;
+	vertical-align: top;
+	font-size: 14px;
+	font-family: arial;
+}
+.sidebar-top {
+	height: 60px;
+}
+.main-search{
+	height: 30px;
+	margin: 5px;
+	width: 780px;
+	margin-top: 20px;
+
+}
+.to-make-a-homepage {
+	text-align: center;
+}
+.my-town{
+	color: grey;
+	font-size: 13px;
+}
+.caption {
+	font-size: 18px;
+	color: blue;
+}
+.setting {
+	text-align: right;
+}
+.list-news {
+	padding: 3px;
+}
+.main-logo {
+	font-size: 25px;
+	text-align: right;
+}
+.Currencies {
+	font-weight: 700;
+}
+.first-letter {
+	color: red;
+}
+.bottom-sydebar {
+	color: grey;
+}
+.bootom-right-about {
+	text-align: right;
+}
+.mail {
+	text-align: center;
+}
